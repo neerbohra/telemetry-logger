@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Arduino / build output
+build/
+*.hex
+*.elf
+
+# Fusion backups and temp files
+*.f3d~
+*.tmp
