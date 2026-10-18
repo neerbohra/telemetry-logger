@@ -3,6 +3,7 @@
 A battery-powered Arduino data logger in a 3D-printed frame. It records motion (MPU-6050), pressure and altitude (BMP280) to a microSD card, and the data is analysed in Python.
 
 **Status:** in progress (Oct - Nov 2026)
+
 **Skills:** Fusion (CAD + engineering drawing), Arduino (I2C, SPI, SD logging), 3D printing, soldering, Python (pandas, matplotlib)
 
 ---
